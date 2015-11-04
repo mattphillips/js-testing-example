@@ -1,0 +1,15 @@
+{
+  "name": "js-testing-example",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Matt Phillips <mattphillips1016@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/mattphillips/js-testing-example",
+  "moduleType": [],
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
